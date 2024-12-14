@@ -116,7 +116,7 @@ Each actionable insight is supported by detailed charts and calculations in the 
 The Excel file includes a dashboard with buttons linking to individual sheets for each analysis. Each sheet contains:
 - Detailed calculations.
 - Charts and graphs supporting insights.
-- A Home Button to navigate back to the Home sheet.
+- A `Home Button` to navigate back to the `Home sheet`.
 
 This design ensures easy navigation and a seamless user experience.
 
