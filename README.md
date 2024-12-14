@@ -1,6 +1,6 @@
 # Excel Store Sales Analysis
 
-This project analyzes store sales and performance data to derive actionable insights and visualize them using an interactive Excel dashboard. The dataset was sourced from [Kaggle](https://www.kaggle.com/), and the analysis answers key questions about customer behavior, product performance, and sales trends. Each insight is supported by dedicated sheets in the Excel file containing relevant charts and calculations.
+This project analyzes store sales and performance data to derive actionable insights and visualize them using an interactive Excel dashboard. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset), and the analysis answers key questions about customer behavior, product performance, and sales trends. Each insight is supported by dedicated sheets in the Excel file containing relevant charts and calculations.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -89,40 +89,9 @@ To ensure accurate analysis, the dataset was cleaned and formatted:
 The Excel file includes a dashboard with buttons linking to individual sheets for each analysis. Each sheet contains:
 - Detailed calculations.
 - Charts and graphs supporting insights.
+- A Home Button to navigate back to the Home sheet.
 
 This design ensures easy navigation and a seamless user experience.
-
----
-
-## How to Use
-
-1. Open the Excel file.
-2. Navigate to the dashboard.
-3. Click the buttons to view detailed analyses and visualizations for each question.
-
----
-
-## Installation
-
-1. Download the Excel file from this repository.
-2. Ensure you have Microsoft Excel installed on your system.
-3. Open the file and explore the dashboard.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to suggest improvements or add new features:
-1. Fork the repository.
-2. Create a new branch (`feature-name`).
-3. Commit your changes.
-4. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
 
 ---
 
