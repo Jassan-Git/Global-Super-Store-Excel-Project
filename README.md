@@ -1,4 +1,4 @@
-# Excel Store Sales Analysis
+# Global Super Store Excel Project
 
 This project analyzes store sales and performance data to derive actionable insights and visualize them using an interactive Excel dashboard. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset), and the analysis answers key questions about customer behavior, product performance, and sales trends. Each insight is supported by dedicated sheets in the Excel file containing relevant charts and calculations.
 
@@ -95,9 +95,9 @@ This design ensures easy navigation and a seamless user experience.
 ---
 
 ## Project Preview
+![GSSP - 3](https://github.com/user-attachments/assets/5ca3f1c9-d45d-4862-94d6-9241ee8d5407)
 ![GSSP - 1](https://github.com/user-attachments/assets/52d55b6f-e08f-49ef-aff3-ceb71a2498d3)
 ![GSSP - 2](https://github.com/user-attachments/assets/2b68e497-5621-4210-bba5-07f30c1f44c5)
-![GSSP - 3](https://github.com/user-attachments/assets/5ca3f1c9-d45d-4862-94d6-9241ee8d5407)
 
 ---
 
