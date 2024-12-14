@@ -8,9 +8,10 @@ This project analyzes store sales and performance data to derive actionable insi
 3. [Customer Analysis](#customer-analysis)
 4. [Product Analysis](#product-analysis)
 5. [Sales Performance and Forecasting](#sales-performance-and-forecasting)
-6. [Interactive Dashboard](#interactive-dashboard)
-7. [Project Preview](#project-preview)
-8. [Acknowledgments](#acknowledgments)
+6. [Actionable Insights](#actionable-insights)
+7. [Interactive Dashboard](#interactive-dashboard)
+8. [Project Preview](#project-preview)
+9. [Acknowledgments](#acknowledgments)
 
 
 ---
