@@ -9,10 +9,9 @@ This project analyzes store sales and performance data to derive actionable insi
 4. [Product Analysis](#product-analysis)
 5. [Sales Performance and Forecasting](#sales-performance-and-forecasting)
 6. [Interactive Dashboard](#interactive-dashboard)
-7. [How to Use](#how-to-use)
-8. [Installation](#installation)
-9. [Contributing](#contributing)
-10. [License](#license)
+7. [Project Preview](#project-preview)
+8. [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -95,7 +94,16 @@ This design ensures easy navigation and a seamless user experience.
 
 ---
 
+## Project Preview
+![GSSP - 1](https://github.com/user-attachments/assets/52d55b6f-e08f-49ef-aff3-ceb71a2498d3)
+![GSSP - 2](https://github.com/user-attachments/assets/2b68e497-5621-4210-bba5-07f30c1f44c5)
+![GSSP - 3](https://github.com/user-attachments/assets/5ca3f1c9-d45d-4862-94d6-9241ee8d5407)
+
+---
+
 ## Acknowledgments
 
-- Dataset sourced from [Kaggle](https://www.kaggle.com/).
-- Special thanks to the Excel community for inspiring interactive dashboard designs.
+- Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset).
+- Special thanks to **LearningX** for the theme inspiration. Check out their amazing tutorials on their [YouTube channel](https://www.youtube.com/@LearningXOnline).
+- A heartfelt thank you to **Readme ChatGPT** for crafting this beautifully structured README file. Without it, this document would have been full of red underlines and grammatical errors.
+- Gratitude to **ChatGPT** for assisting with calculations and research, making this project faster and more accurate.
